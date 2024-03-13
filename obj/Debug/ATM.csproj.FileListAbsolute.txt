@@ -1,0 +1,11 @@
+C:\Users\insan\vsProject\ATM\ATM\bin\Debug\ATM.exe.config
+C:\Users\insan\vsProject\ATM\ATM\bin\Debug\ATM.exe
+C:\Users\insan\vsProject\ATM\ATM\bin\Debug\ATM.pdb
+C:\Users\insan\vsProject\ATM\ATM\obj\Debug\ATM.csproj.AssemblyReference.cache
+C:\Users\insan\vsProject\ATM\ATM\obj\Debug\ATM.Properties.Resources.resources
+C:\Users\insan\vsProject\ATM\ATM\obj\Debug\ATM.csproj.GenerateResource.cache
+C:\Users\insan\vsProject\ATM\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\insan\vsProject\ATM\ATM\obj\Debug\ATM.exe
+C:\Users\insan\vsProject\ATM\ATM\obj\Debug\ATM.pdb
+C:\Users\insan\vsProject\ATM\ATM\obj\Debug\ATM.ATMModeSelection.resources
+C:\Users\insan\vsProject\ATM\ATM\obj\Debug\ATM.Atm.resources
